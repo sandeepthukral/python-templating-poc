@@ -10,7 +10,7 @@ On OS X use homebrew
 `brew install pango`
 
 ### create a virtual environment with python 2
-- `virtualenv -p <python2-executable-path> <virtual-env-name>
+- `virtualenv -p <python2-executable-path> <virtual-env-name>`
 - `cd <path-to-vietualenv>`
 - `source bin/activate`
 
